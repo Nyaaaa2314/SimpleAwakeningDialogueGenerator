@@ -100,6 +100,45 @@ namespace AwakeningDialogueWriter
                     case 6:
                         richTextBox1.AppendText("\n$Clear");
                         break;
+                    case 7:
+                        richTextBox1.AppendText("\n$DeleteSpeaker");
+                        break;
+                    case 8:
+                        if (args.TextLength == 0)
+                        {
+                            return;
+                        }
+                        else
+                        {
+                            richTextBox1.AppendText("\n$PlaySoundEffect(" + args.Text + ")");
+
+                        }
+                        break;
+                    case 9:
+                        richTextBox1.AppendText("\n$ScrollIn");
+                        break;
+                    case 10:
+                        if (args.TextLength == 0)
+                        {
+                            return;
+                        }
+                        else
+                        {
+                            richTextBox1.AppendText("\n$PlayVoice(" + args.Text + ")");
+
+                        }
+                        break;
+                    case 11:
+                        if (args.TextLength == 0)
+                        {
+                            return;
+                        }
+                        else
+                        {
+                            richTextBox1.AppendText("\n$PlayMusic(" + args.Text + ")");
+
+                        }
+                        break;
                 }
             }
         }

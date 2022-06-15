@@ -75,7 +75,12 @@ namespace AwakeningDialogueWriter
             "FadeOut",
             "FadeIn",
             "Pause",
-            "Clear"});
+            "Clear",
+            "DeleteSpeaker",
+            "PlaySoundEffect",
+            "ScrollIn",
+            "PlayVoice",
+            "PlayMusic"});
             this.listBox1.Location = new System.Drawing.Point(90, 24);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(161, 134);
