@@ -205,5 +205,13 @@ namespace AwakeningDialogueWriter
         {
 
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            if(richTextBox1.Text.Length > 0)
+            {
+                richTextBox1.Text = richTextBox1.Text.Replace('-', '―');
+            }
+        }
     }
 }

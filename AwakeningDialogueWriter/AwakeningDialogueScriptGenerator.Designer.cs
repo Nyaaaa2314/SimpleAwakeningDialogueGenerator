@@ -47,6 +47,7 @@ namespace AwakeningDialogueWriter
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.button7 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // richTextBox1
@@ -222,12 +223,23 @@ namespace AwakeningDialogueWriter
             this.label6.TabIndex = 17;
             this.label6.Text = "Only run this once per script!";
             // 
+            // button7
+            // 
+            this.button7.Location = new System.Drawing.Point(9, 420);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(75, 23);
+            this.button7.TabIndex = 18;
+            this.button7.Text = "Replace EM";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
             // AwakeningDialogueScriptGenerator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(768, 615);
+            this.Controls.Add(this.button7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -273,6 +285,7 @@ namespace AwakeningDialogueWriter
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button button7;
     }
 }
 

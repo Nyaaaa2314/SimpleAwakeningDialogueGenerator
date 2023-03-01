@@ -8,3 +8,13 @@ C:\Users\Jadiel\source\repos\AwakeningDialogueWriter\AwakeningDialogueWriter\obj
 C:\Users\Jadiel\source\repos\AwakeningDialogueWriter\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.exe
 C:\Users\Jadiel\source\repos\AwakeningDialogueWriter\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.pdb
 C:\Users\Jadiel\source\repos\AwakeningDialogueWriter\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.AwakeningDialogueScriptGenerator.resources
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\bin\Debug\AwakeningDialogueWriter.exe.config
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\bin\Debug\AwakeningDialogueWriter.exe
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\bin\Debug\AwakeningDialogueWriter.pdb
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.csprojAssemblyReference.cache
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.AwakeningDialogueScriptGenerator.resources
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.Properties.Resources.resources
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.csproj.GenerateResource.cache
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.csproj.CoreCompileInputs.cache
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.exe
+C:\Users\Jadiel\Source\Repos\SimpleAwakeningDialogueGenerator\AwakeningDialogueWriter\obj\Debug\AwakeningDialogueWriter.pdb
